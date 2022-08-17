@@ -1,0 +1,15 @@
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\bin\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataAccess.deps.json
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\bin\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataAccess.dll
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\bin\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataAccess.pdb
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\bin\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataModels.dll
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\bin\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataModels.pdb
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\obj\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\obj\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\obj\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\obj\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataAccess.AssemblyInfo.cs
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\obj\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\obj\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataAccess.csproj.CopyComplete
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\obj\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataAccess.dll
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\obj\Debug\net6.0\refint\SEDC.WebApi.Workshop.Notes.DataAccess.dll
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\obj\Debug\net6.0\SEDC.WebApi.Workshop.Notes.DataAccess.pdb
+C:\Users\Code\Documents\GitHub\ASP.NET-Web-API\SEDC.Class04.WebApi\SEDC.WebApi.Workshop.Notes.DataAccess\obj\Debug\net6.0\ref\SEDC.WebApi.Workshop.Notes.DataAccess.dll

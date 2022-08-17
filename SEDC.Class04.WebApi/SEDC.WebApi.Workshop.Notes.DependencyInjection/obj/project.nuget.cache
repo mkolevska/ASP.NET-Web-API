@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8n9zerTFDpHSO6LKVSDO8FEd4T215YaVT93YHibX9jyCZFAvrEsPe+FfD9PoHbbPftzj0lzVWv79/d0POYh2Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Code\\Documents\\GitHub\\ASP.NET-Web-API\\SEDC.Class04.WebApi\\SEDC.WebApi.Workshop.Notes.DependencyInjection\\SEDC.WebApi.Workshop.Notes.DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Code\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
